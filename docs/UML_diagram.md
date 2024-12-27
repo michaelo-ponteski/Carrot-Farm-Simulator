@@ -1,3 +1,4 @@
+```mermaid
 classDiagram
 note "Project Team: [Your Team Names]"
 
@@ -79,3 +80,4 @@ note "Project Team: [Your Team Names]"
     Entity <|-- Farmer
     Entity <|-- Dog
     Entity <|-- Rabbit
+```
