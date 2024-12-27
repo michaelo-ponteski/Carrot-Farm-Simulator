@@ -1,6 +1,8 @@
 ```mermaid
 classDiagram
-note "Project Team: [Your Team Names]"
+note "Project Team:
+Michał Pokładowski
+Oskar Prusinowski"
 
     class GameController {
         -Field field
